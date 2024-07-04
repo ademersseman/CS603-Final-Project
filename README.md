@@ -14,6 +14,6 @@ the move_base package from ROS to navigate to locations
 specified by the LLM.
 
 # Video Demo
-In this video demo the robot was fed the prompt "I'm hungry" and based on its environment decided to navigate to the apple
+In this video demo the robot was fed the prompt "I'm hungry" following which based on its environment the robot decided to navigate to the apple.
 
 [Demo Youtube Video](https://youtube.com/shorts/6sXa2ZZjZ1Y)
