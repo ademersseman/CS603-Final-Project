@@ -1,8 +1,7 @@
 # Project Description
 
 In this project, we address the challenge of
-enabling a physical robot to locate objects within its pre-
-mapped environment given natural language instructions
+enabling a physical robot to locate objects within its pre-mapped environment given natural language instructions
 from a human user. Using a Triton robot, which comes
 equipped with 2D LiDAR and a color-depth camera, we
 develop an autonomous control system capable of percep-tion, planning, and navigation. Specifically, we utilize a
